@@ -222,5 +222,5 @@ __marimo__/
 #Bmad
 .bmad-core/
 .claude/
-.github/
+.github/chatmodes/
 web-bundles/
